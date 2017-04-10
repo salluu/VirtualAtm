@@ -1,0 +1,9 @@
+d:\documents\visual studio 2015\Projects\VirtualAtm\VirtualAtm\bin\Debug\VirtualAtm.exe.config
+d:\documents\visual studio 2015\Projects\VirtualAtm\VirtualAtm\obj\Debug\VirtualAtm.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\VirtualAtm\VirtualAtm\bin\Debug\VirtualAtm.exe
+d:\documents\visual studio 2015\Projects\VirtualAtm\VirtualAtm\bin\Debug\VirtualAtm.pdb
+d:\documents\visual studio 2015\Projects\VirtualAtm\VirtualAtm\obj\Debug\VirtualAtm.exe
+d:\documents\visual studio 2015\Projects\VirtualAtm\VirtualAtm\obj\Debug\VirtualAtm.pdb
+D:\VirtualAtm\VirtualAtm\bin\Debug\VirtualAtm.exe.config
+D:\VirtualAtm\VirtualAtm\obj\Debug\VirtualAtm.exe
+D:\VirtualAtm\VirtualAtm\obj\Debug\VirtualAtm.pdb
